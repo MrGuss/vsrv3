@@ -1,3 +1,3 @@
 # To use this do:
-# cc <filename> - o <output_file_name>
-# ./<filename>
+# cc <file> - o <output_file_name>
+# ./<file>
