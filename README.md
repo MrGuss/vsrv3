@@ -1,3 +1,3 @@
 # To use this do:
-# cc <file> - o <output_file_name>
-# .//<file>
+# cc <soure_file> -o <output_file_name>
+# ./<output_filename>
