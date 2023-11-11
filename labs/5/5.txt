@@ -1,0 +1,12 @@
+Заголовок ELF:
+  Magic:   7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00 
+  Класс:                             ELF64
+Файл elf использует 64-битную архитектуру
+  Данные:                            дополнение до 2, от младшего к старшему
+1
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  Версия ABI:                        0
+  Тип:                               DYN (Position-Independent Executable file)
+  Машина:                            Advanced Micro Devices X86-64
+
