@@ -19,13 +19,7 @@ int main(){
     int (*func)(char*, char);
     func = func5;
     char test[] = "Hello, World!";
-    
-
     printf("Count: %d\n", func(test, 'l'));
     printf("%s\n", test);
     return 0;
-
 }
-
-
-
